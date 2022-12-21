@@ -1,0 +1,41 @@
+.header {
+    width: 1085px;
+    height: 70px;
+    border-bottom: 2px solid rgb(192, 237, 243);
+    ;
+    position: relative;
+    left: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user_id {
+    position: absolute;
+    left: 3%;
+    right: 67.75%;
+    top: 30%;
+    /* bottom: 92.69%; */
+    /* font-family: 'Source Sans Pro'; */
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+    color: #B4B4C6;
+}
+
+.userName {
+    width: 100px;
+    position: absolute;
+    left: 90.12%;
+    right: 3.56%;
+    top: 30%;
+    bottom: 92.78%;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+    /* identical to box height */
+    display: flex;
+    color: #A6A6A6;
+}
