@@ -1,0 +1,25 @@
+.table{
+    position: absolute;
+    top: 23%;
+    left: 18%;
+    right: 2%;
+    width: 1085px;
+    table-layout: auto;
+    border-collapse:separate;
+    border-spacing:0 15px;
+}
+
+.table tr{
+    background-color: white;
+}
+.table th{
+    padding: 15px;
+    font-size: large;
+    color:  #3e9bf1;
+}
+.table td{
+    padding: 15px;
+    font-size: large;
+    color: black;
+}
+
