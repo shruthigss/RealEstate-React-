@@ -7,6 +7,8 @@ import Home from './components/Home';
 import Addproperty from './components/Addproperty';
 
 function App() {
+
+  
   return (
     <div >
       <BrowserRouter>

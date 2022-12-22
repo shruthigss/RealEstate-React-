@@ -38,7 +38,7 @@ export default function Signup() {
   return (
     <div className="mycard">
     <div className="card auth-card">
-      <h2>Real Estate</h2>
+      <img  src="https://graphicsfamily.com/wp-content/uploads/edd/2021/01/Free-Real-Estate-Logo-Template-PNG-Transparent-scaled.jpg" alt=""/>
       <input type="text" placeholder="Mail ID" 
         value={email}
         onChange={(e)=>setEmail(e.target.value)}
